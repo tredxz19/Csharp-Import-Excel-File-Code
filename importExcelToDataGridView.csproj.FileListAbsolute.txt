@@ -1,0 +1,17 @@
+D:\learning\importExcelToDataGridView\importExcelToDataGridView\bin\Debug\importExcelToDataGridView.exe
+D:\learning\importExcelToDataGridView\importExcelToDataGridView\bin\Debug\importExcelToDataGridView.pdb
+D:\learning\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.csprojResolveAssemblyReference.cache
+D:\learning\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.Form1.resources
+D:\learning\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.Properties.Resources.resources
+D:\learning\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.csproj.GenerateResource.Cache
+D:\learning\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.exe
+D:\learning\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.pdb
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\bin\Debug\importExcelToDataGridView.exe
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\bin\Debug\importExcelToDataGridView.pdb
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.Form1.resources
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.Properties.Resources.resources
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.exe
+C:\Users\Administrator\Downloads\New folder\importExcelToDataGridView\importExcelToDataGridView\obj\Debug\importExcelToDataGridView.pdb
